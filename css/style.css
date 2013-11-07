@@ -1,0 +1,23 @@
+body {
+    background: #AED6FE;
+    
+    margin: 0;
+    padding: 0;
+    
+    position: relative;
+}
+
+canvas#canvas {
+    width: 1024px;
+    height: 768px;
+    
+    background: #64b0fe;
+    /* 64b0fe */
+    
+    position: absolute;
+    
+    top: 25px;
+    left: 50%;
+    
+    margin-left: -512px;
+}
